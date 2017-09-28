@@ -67,6 +67,7 @@ platform :ios do
       include_symbols: true,
       export_method:"ad-hoc",
     )
+    pgyer(api_key: "244fda099dd39092cca8dbc7f5b0627f", user_key: "434eed6c16ff70e7a4dd32d50cc5f9ef")
     # frameit
   end
 
